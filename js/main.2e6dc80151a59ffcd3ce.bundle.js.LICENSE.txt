@@ -5,7 +5,7 @@
 */
 
 /*!
- * @project        @papillonbits/search-core-microsite
+ * @project        search
  * @name           main.2e6dc80151a59ffcd3ce.bundle.js
  * @author         MTS
  * @copyright      Copyright (c) 2022 MTS
